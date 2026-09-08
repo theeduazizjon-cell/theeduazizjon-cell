@@ -100,9 +100,12 @@ Backend for a restaurant ordering system, with member authentication, product an
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theeduazizjon-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theeduazizjon-cell&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theeduazizjon-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="165" />
 
-<img src="https://komarev.com/ghpvc/?username=theeduazizjon-cell&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=theeduazizjon-cell&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
