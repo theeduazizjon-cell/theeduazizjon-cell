@@ -32,18 +32,31 @@ I'm a Computer Engineering student at **Sejong University** in Seoul, South Kore
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap,materialui" alt="Frontend" />
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,spring,django,flask,fastapi" alt="Backend" />
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" /> &nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logoColor=white)
 
-**Tools & Other**
+**DevOps & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,grafana" alt="DevOps" /> &nbsp;
+![PM2](https://img.shields.io/badge/PM2-2B037B?style=flat-square&logo=pm2&logoColor=white)
+
+**AI Engineering**
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI Engineering" /> &nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square&logoColor=white)
+
+**Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Tools" /> &nbsp;
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
